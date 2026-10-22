@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\USER\Desktop\game_cli_thing\cpp_dodge_game_but_with_cli_maybe_add_fighting_later\build\CMakeFiles\game.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Desktop\game_cli_thing\cpp_dodge_game_but_with_cli_maybe_add_fighting_later\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Desktop\game_cli_thing\cpp_dodge_game_but_with_cli_maybe_add_fighting_later\player\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\USER\Desktop\game_cli_thing\cpp_dodge_game_but_with_cli_maybe_add_fighting_later\player\Player.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Desktop\game_cli_thing\cpp_dodge_game_but_with_cli_maybe_add_fighting_later\global_variable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Desktop\game_cli_thing\cpp_dodge_game_but_with_cli_maybe_add_fighting_later\build\CMakeFiles\game.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Desktop\game_cli_thing\cpp_dodge_game_but_with_cli_maybe_add_fighting_later\build\CMakeFiles\game.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Desktop\game_cli_thing\cpp_dodge_game_but_with_cli_maybe_add_fighting_later\build\CMakeFiles\game.dir\MinSizeRel\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Desktop\game_cli_thing\cpp_dodge_game_but_with_cli_maybe_add_fighting_later\build\CMakeFiles\game.dir\RelWithDebInfo\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\USER\Desktop\game_cli_thing\cpp_dodge_game_but_with_cli_maybe_add_fighting_later\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F30F1288-1000-31C6-B286-DA640AFD7C58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{BB7D3048-6239-3504-8173-8E914E3AF7B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{558EECA2-530A-31B4-B03C-78FDC92F6608}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

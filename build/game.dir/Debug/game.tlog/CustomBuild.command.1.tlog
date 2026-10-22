@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\GAME_CLI_THING\CPP_DODGE_GAME_BUT_WITH_CLI_MAYBE_ADD_FIGHTING_LATER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/USER/Desktop/game_cli_thing/cpp_dodge_game_but_with_cli_maybe_add_fighting_later -BC:/Users/USER/Desktop/game_cli_thing/cpp_dodge_game_but_with_cli_maybe_add_fighting_later/build --check-stamp-file C:/Users/USER/Desktop/game_cli_thing/cpp_dodge_game_but_with_cli_maybe_add_fighting_later/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
